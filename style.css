@@ -3,19 +3,20 @@
 }
 
 .misureCard {
-  width: 400px;
-  height: 600px;
+  width: 200px;
+  height: 300px;
 }
 
 .backgroundCard {
-  background-color: grey;
+  background-color: white;
 }
+
 .immagineCard {
-  max-width: 250px;
-  height: 250px;
+  max-width: 100px;
+  height: 100px;
   border: solid 2px black;
 }
 
-.img {
+.immagineCard img {
   max-width: fit-content;
 }
