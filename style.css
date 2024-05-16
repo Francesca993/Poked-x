@@ -1,0 +1,21 @@
+.main {
+  height: 100vh;
+}
+
+.misureCard {
+  width: 400px;
+  height: 600px;
+}
+
+.backgroundCard {
+  background-color: grey;
+}
+.immagineCard {
+  max-width: 250px;
+  height: 250px;
+  border: solid 2px black;
+}
+
+.img {
+  max-width: fit-content;
+}
